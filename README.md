@@ -61,8 +61,6 @@ path('about/',about,name='about')
 
 
 {% endblock content %}
-
-
 ``` 
 
 
