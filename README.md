@@ -1,4 +1,6 @@
-# django commands and project detail:-django commands and project detail:-
+# django commands and project detail
+
+### Django commands and project detail:-
 
 
 `startproject:-django-admin startproject`
@@ -35,9 +37,9 @@ path('about/',about,name='about')
 ```
 
 
-```python
-template inheritance:-
-```
+
+### template inheritance:-
+
 
 ##### base.html
 ```html
